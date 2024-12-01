@@ -64,7 +64,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Jainish1604/Jainish1604/output/snake.svg" alt="Snake animation" />
-
 ###
